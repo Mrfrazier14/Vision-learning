@@ -15,7 +15,7 @@ h1 {
   padding-top: 100px;
   width: 100%;
   font-family: Georgia;
-  text-align: center; 
+  text-align: center;
 }
 
 h2 {
@@ -79,5 +79,9 @@ p {
   box-shadow: 5px 0px 5px 0px rgba(0, 0, 50, 0.97);
   float: left;
   width: 50px;
+}
+.caption {
+  background-color: white;
+  color: black;
 }
 
