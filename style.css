@@ -27,11 +27,16 @@ h2 {
   width: 70%;
 }
 
+h1, h2 {
+  font-family: Georgia;
+}
+
 p {
   color: aliceblue;
   line-height: 1.3em;
   text-align: left;
   width: 100%;
+  font-family: Helvetica;
 }
 
 .byline {
@@ -74,3 +79,4 @@ p {
   float: left;
   width: 50px;
 }
+
