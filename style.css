@@ -36,6 +36,7 @@ p {
   width: 100%;
   font-family: Helvetica;
   font-size: 18px;
+  font-weight: bold;
 }
 
 .byline {
@@ -78,3 +79,4 @@ p {
   float: left;
   width: 50px;
 }
+
